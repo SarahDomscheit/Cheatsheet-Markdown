@@ -45,5 +45,25 @@ _kursiv_
 
 ---
 
-`Link [
+`Link [Titel] (Link)`
+[DCI] (https://digitalcareerinstitute.org)
+
+---
+
+'Bild einfügen ![alt text](image.jpg) Achtung:Größe nicht veränderbar`
+![alt text](https://digitalcareerinstitute.org/wp-content/uploads/2022/04/DCI_COLORS_June24_logo_wordmark_blue.svg)
+
+---
+
+`Emoji einfügen :Emojiname: `
+😂:
+
+---
+
+`To do Listen - [x] Todo`
+- [x] Todo1
+- [ ] Todo2
+      
+
+
 
